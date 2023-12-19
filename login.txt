@@ -1,5 +1,4 @@
 login with email and password
 login with mobile number and one time password
 login with MFA
-login with facial recognition
-login with finger print
+login with finger print --> fixing finger print bug issue
